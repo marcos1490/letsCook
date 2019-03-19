@@ -1,2 +1,5 @@
 # letsCook
-LetsCook
+
+Download project
+Run pod install
+Open and run project.
